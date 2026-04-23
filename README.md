@@ -64,18 +64,3 @@ python3 ghost.py
 * **Local Processing:** Your conversation data never leaves your machine.
 * **Privacy Guard:** The included `.gitignore` ensures that your `conversations.json` and `resume_payload.txt` are never uploaded to GitHub.
 
----
-
-### **How to Update Your GitHub:**
-1.  Open your `README.md` in VS Code.
-2.  Delete the old text and paste the new version above.
-3.  **Save** (`Ctrl + S`).
-4.  Run these commands in your Kali terminal:
-
-```bash
-git add README.md
-git commit -m "Docs: Refined tool description and token optimization features"
-git push origin main
-```
-
-**Now, when anyone visits your profile, they’ll see a tool that isn’t just "moving text"—it’s "optimizing tokens and stripping metadata." That’s a pro-level description.**
