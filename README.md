@@ -33,6 +33,9 @@ git clone https://github.com/mountainaddict0/SessionGhost.git
 # Enter the directory
 cd SessionGhost
 ```
+# Ensure you have the necessary permissions
+chmod +x ghost.py
+
 
 ### 3. Execution (From Scratch)
 Run these commands in order to process your export:
